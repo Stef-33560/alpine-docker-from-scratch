@@ -4,8 +4,6 @@ Build Status: [![travis build status](https://app.travis-ci.com/Stef-33560/alpin
 
 Docker Hub: [![skwashd/alpine:3.8 on docker hub](https://shields.io/docker/stars/stef33560/alpine.svg)](https://hub.docker.com/r/stef33560/alpine)
 
-Image Size: [![microbadger badge](https://img.shields.io/microbadger/image-size/stef33560/alpine.svg)](https://microbadger.com/images/stef33560/alpine)
-
 This project builds an [Alpine Linux](https://alpinelinux.org/) docker image
 from scratch using the upstream filesystem image. The official Alpine images
 on docker hub can lag a little behind the official releases. I would prefer
