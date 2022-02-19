@@ -1,10 +1,10 @@
 # Alpine Linux from Scratch
 
-Build Status: [![travis build status](https://api.travis-ci.com/skwashd/alpine-docker-from-scratch.svg)](https://travis-ci.com/skwashd/alpine-docker-from-scratch)
+Build Status: [![travis build status](https://app.travis-ci.com/Stef-33560/alpine-docker-from-scratch.svg?branch=main)](https://travis-ci.com/skwashd/alpine-docker-from-scratch)
 
-Docker Hub: [![skwashd/alpine:3.8 on docker hub](https://img.shields.io/docker/stars/skwashd/alpine.svg)](https://hub.docker.com/r/skwashd/alpine)
+Docker Hub: [![skwashd/alpine:3.8 on docker hub](https://shields.io/docker/stars/stef33560/alpine.svg)](https://hub.docker.com/r/skwashd/alpine)
 
-Image Size: [![microbadger badge](https://img.shields.io/microbadger/image-size/skwashd/alpine.svg)](https://microbadger.com/images/skwashd/alpine)
+Image Size: [![microbadger badge](https://img.shields.io/microbadger/image-size/stef33560/alpine.svg)](https://microbadger.com/images/skwashd/alpine)
 
 This project builds an [Alpine Linux](https://alpinelinux.org/) docker image
 from scratch using the upstream filesystem image. The official Alpine images
